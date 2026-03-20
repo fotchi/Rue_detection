@@ -1,0 +1,42 @@
+names:
+- Alte pericole
+- Cedeaza Trecerea
+- Curba periculoasa
+- Curba stanga
+- Depasire interzisa
+- Drum cu denivelari
+- Drum cu prioritate
+- Drum in lucru
+- Drum ingustat
+- Inainte sau dreapta
+- Inainte sau stanga
+- Interzis
+- Interzis in ambele sensuri
+- Limita 100
+- Limita 20
+- Limita 30
+- Limita 50
+- Limita 60
+- Limita 70
+- Limita 80
+- Obligatoriu Dreapta
+- Obligatoriu Stanga
+- Obligatoriu inainte
+- Ocolire
+- Oprirea interzisa
+- Parcare
+- STOP
+- Sens Giratoriu
+- Sfarsit restrictii
+- Succesiune curbe
+- Trecere de pietoni
+nc: 31
+roboflow:
+  license: CC BY 4.0
+  project: traffic-signs-ohupb
+  url: https://universe.roboflow.com/convert-vkjvx/traffic-signs-ohupb/dataset/1
+  version: 1
+  workspace: convert-vkjvx
+test: ../test/images
+train: ../train/images
+val: ../valid/images
